@@ -1,4 +1,4 @@
-press   -> OFF/ON
-hold >0.5sec when OFF -> block/unblock
+press         -> OFF/ON
+hold >0.5sec when OFF   -> block/unblock
 voltage <= 3.1V 	    -> short blink (100ms OFF) every 5sec
 voltage <= 2.9V		    -> wait 5sec and OFF
